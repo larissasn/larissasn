@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissasn&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissasn&layout=compact&langs_count=7&theme=outrun"/>
 </div>
-![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Lary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,6 +23,6 @@
   <a href="https://discord.gg/ejQgFdez" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
   <a href="mailto:larissasantosn4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a> 
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- 
+ ![Profile views](https://gpvc.larissasn.dev/larissasn?v=3)
  ![snake gif](https://github.com/larissasn/larissasn/blob/output/github-contribution-grid-snake.svg)
  </div>
