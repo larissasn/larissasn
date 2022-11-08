@@ -15,7 +15,7 @@
   <img align="center" alt="Lary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lary-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Lary-pic" height="150" style="border-radius:50px;"
-  src="https://discord.com/channels/822523363884924969/822523364509614142/1039294955488813108">
+  src="https://cdn.discordapp.com/attachments/822523364509614142/1039562793680109578/Media_221108_122946.gif">
   
 </div>
   
