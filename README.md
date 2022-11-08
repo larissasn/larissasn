@@ -2,6 +2,8 @@
 
 :wink:Eu sou a Larissa dos Santos, desenvolvedora Front-End, atualmente faço projetos com as tecnologias que aprendi::heavy_check_mark:
 
+![Profile views](https://gpvc.arturio.dev/larissasn)
+
 <div align="center">
   <a href="https://github.com/larissasn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissasn&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
@@ -15,7 +17,6 @@
   <img align="right" alt="Lary-pic" height="150" style="border-radius:50px;"
   src="https://discord.com/channels/822523363884924969/822523364509614142/1039294955488813108">
   
- ![Profile views](https://gpvc.arturio.dev/larissasn)
 </div>
   
   ##
