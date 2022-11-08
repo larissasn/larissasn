@@ -1,13 +1,13 @@
 ### Olá! :smiley:
 
-:wink:Eu sou a Larissa dos Santos, programadora Front-End, atualmente desenvolvo projetos com as tecnologias que aprendi::heavy_check_mark:
+:wink:Eu sou a Larissa dos Santos, desenvolvedora Front-End, atualmente faço projetos com as tecnologias que aprendi::heavy_check_mark:
 
 <div align="center">
   <a href="https://github.com/larissasn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissasn&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissasn&layout=compact&langs_count=7&theme=outrun"/>
 </div>
-
+![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
 <div style="display: inline_block"><br>
   <img align="center" alt="Lary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
