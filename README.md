@@ -1,4 +1,4 @@
-### Olá! Eu sou a Larissa 👋👋 
+### 🌈Olá! Eu sou a Larissa 👋👋 
 
 
 - 🌱 Atualmente estou me aperfeiçoando no ReactJS
