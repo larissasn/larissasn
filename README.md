@@ -1,6 +1,8 @@
-### Olá! :smiley:
+### Olá! Eu sou a Larissa 👋👋 
 
-:wink:Eu sou a Larissa dos Santos, desenvolvedora Front-End, atualmente faço projetos com as tecnologias que aprendi::heavy_check_mark:
+
+- 🌱 Atualmente estou me aperfeiçoando no ReactJS
+- 💻 Desenvolvedora web
 
 ![Profile views](https://gpvc.arturio.dev/larissasn)
 
