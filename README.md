@@ -2,7 +2,7 @@
 
 
 - 🌱 Atualmente estou me aperfeiçoando no ReactJS
-- 💻 Desenvolvedora web
+- 💻 Desenvolvedora Front-end
 
 ![Profile views](https://gpvc.arturio.dev/larissasn)
 
