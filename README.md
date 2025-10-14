@@ -1,40 +1,65 @@
-### 🌈Olá! Eu sou a Larissa 👋👋 
+# Sobre 
 
+Sou Desenvolvedora Front-End Pleno com +3 de experiência na criação de interfaces performáticas e escaláveis usando **React.js, TypeScript e Next.js**. Atuo com foco em qualidade de código, componentização, boas práticas (Clean Code, SOLID aplicado ao Front-End) e experiência do usuário **UI/UX**.
+Experiência sólida em consumo de APIs RESTful e gestão de estado com React Query, Context API, Zustand e Redux. Trabalho com metodologias ágeis, versionamento (Git/GitHub/Bitbucket) e entregas colaborativas com times multidisciplinares. Também tenho vivência com **CI/CD** para automação de deploy e versionamento contínuo, e realizo deploy de aplicações na **Vercel** e **Netlify**.
+Sou uma profissional orientada a resultados, com evolução contínua e paixão por desenvolver soluções eficientes que gerem valor real para o usuário e para o negócio.
 
-- 🌱 Atualmente estou me aperfeiçoando no React Native
-- 💻 Desenvolvedora Front-end
+## Destaques
 
-![Profile views](https://gpvc.arturio.dev/larissasn)
+- Desenvolvimento Front-End com React.js, TypeScript e Next.js
+- Consumo de APIs RESTful com Axios e Fetch API
+- Arquitetura de componentes, Clean Code e boas práticas
+- Integração com Design System (componentização e padronização)
+- Gerenciamento de estado com React Query, Context API, Zustand e Redux
+- Versionamento com Git/GitHub (Pull Requests, Code Review, Git Flow)
+- Integração com CI/CD (GitHub Actions, pipelines de build e deploy)
+- Deploy de aplicações na Vercel e Netlify
+- Experiência com metodologias ágeis (Scrum e Kanban)
 
-<div align="center">
-  <a href="https://github.com/larissasn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissasn&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissasn&layout=compact&langs_count=7&theme=outrun"/>
-</div>
+## Projetos
+- [Barbearia em Next.js](https://github.com/larissasn/barber-house) 
+- [Hamburgeria com React](https://github.com/larissasn/devburger-interface)
+- [App Delivery Food com React Native](https://github.com/larissasn/food)
+- [Aplicação que prediz Idade](https://github.com/larissasn/sveltekit-test)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lary-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lary-React-Navigation" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/reactnavigation/reactnavigation-original.svg">
-  <img align="center" alt="Lary-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Lary-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Lary-Axios" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" />
-  <img align="center" alt="Lary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Lary-ESLint" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-plain.svg"/>
-  <img align="center" alt="Lary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Lary-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  
-  <img align="right" alt="Lary-pic" height="150" style="border-radius:50px;"
-  src="https://cdn.discordapp.com/attachments/822523364509614142/1039562793680109578/Media_221108_122946.gif"/>
-  
-</div>
-  
-  ##
- 
-<div>
-  <a href="https://www.instagram.com/larysantus_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://discord.gg/ejQgFdez" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href="mailto:s4nlari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a> 
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larissasn&hide_progress=true&show_icons=true&bg_color=00000000&title_color=2F81F7&text_color=8B949E)
 
- ![snake gif](https://github.com/larissasn/larissasn/blob/output/github-contribution-grid-snake.svg)
- </div>
+## Tecnologias
+
+### Linguagens
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS CSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Frameworks & Bibliotecas
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAF)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next-dot-js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![AXIOS](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=whitee)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+### Ferramentas
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Sequalize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![WordPress](	https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=whit)
